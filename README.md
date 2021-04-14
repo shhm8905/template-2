@@ -6,4 +6,4 @@
 
 In this project I have learned html, css and javascript .
 
-⭐️ To see this project => [shhm8905](https://shhm8905.github.io/transfer-app/)
+⭐️ To see this project => [shhm8905](https://shhm8905.github.io/Transfer-App/)
