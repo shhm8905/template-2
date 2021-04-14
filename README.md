@@ -1,4 +1,4 @@
-# transfer-app
+# Transfer-App
 
 <p align="center">
   <img src="https://github.com/shhm8905/Transfer-App/blob/master/transfer1.png" />
