@@ -1,7 +1,7 @@
 # transfer-app
 
 <p align="center">
-  <img src="https://github.com/shhm8905/Transfer-App/transfer1.png" />
+  <img src="https://github.com/shhm8905/Transfer-App/blob/master/transfer1.png" />
 </p>
 
 In this project I have learned html, css and javascript .
