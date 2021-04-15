@@ -168,8 +168,13 @@ body {
   .send-btn {
     font-size: 14px;
     width: 50%;
+    margin-top: 50px;
   }
   .print-text {
     font-size: 14px;
+    margin-top: 50px;
+  }
+  .color-switcher{
+    margin: 20px auto;
   }
 }
