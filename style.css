@@ -52,10 +52,12 @@ body {
 .my-text {
   margin: auto;
   width: 60%;
+  height: 100%;
   color: #fff;
   padding: 20px;
   background-color: #00000073;
   background-size: cover;
+  
 }
 .red .container{
   background-color: #e87063;
