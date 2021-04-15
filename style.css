@@ -134,12 +134,20 @@ body {
   .my-text {
     width: 90%;
   }
+  .container h3{
+    margin: 30px auto;
+    border-radius: 8%;
+    padding: 20px;
+  }
+  .color-switcher{
+    margin: 20px auto;
+  }
 }
 @media screen and (max-width: 768px) {
   .container h3 {
     font-size: 17px;
     width: 100%;
-    padding: 30px;
+    
   }
   .inpt {
     width: 75%;
@@ -175,6 +183,6 @@ body {
     margin-top: 50px;
   }
   .color-switcher{
-    margin: 20px auto;
+    margin:0 auto;
   }
 }
